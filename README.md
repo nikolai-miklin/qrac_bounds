@@ -1,5 +1,5 @@
-# qrac_bounds
-This repository contains MATLAB programs used for generating numerical results from arXiv:2312.14142. 
+# QracBounds
+This repository contains MATLAB programs used for generating numerical results from [arXiv:2312.14142](https://arxiv.org/abs/2312.14142). 
 
 The files:
 - RAC333.m and RAC333_run.m are programs used to generate the upper bounds from Table II for quantum RAC with d=D=n=3.
